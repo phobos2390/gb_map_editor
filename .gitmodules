@@ -1,0 +1,6 @@
+[submodule "gb_asm_utils"]
+	path = gb_asm_utils
+	url = git@github.com:phobos2390/gb_asm_utils.git
+[submodule "gb_asm_test"]
+	path = gb_asm_test
+	url = git@github.com:phobos2390/gb_asm_test.git
